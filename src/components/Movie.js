@@ -1,5 +1,5 @@
 import './Movie.css';
-import SearchBar from '../layout/SearchBar';
+import Search from './Search';
 
 function Movie(props)
 {
