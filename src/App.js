@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import Header from './layout/Header.js';
 import Footer from './layout/Footer.js';
 import Main from './layout/Main.js';
+import SearchBar from './layout/SearchBar.js';
 import './App.css';
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         </a>
       </header> */}
       <Header />
+      <SearchBar />
       <Main />
       <Footer />
     </div>

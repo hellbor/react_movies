@@ -1,4 +1,5 @@
 import './Movie.css';
+import SearchBar from '../layout/SearchBar';
 
 function Movie(props)
 {
