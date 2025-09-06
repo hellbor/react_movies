@@ -15,8 +15,8 @@ class SearchBar extends React.Component {
 
     render() {
         return (
-
             <form>
+                <h3>Поиск фильма</h3>
                 <input type="text" placeholder="Введите название фильма..." size={this.state.length} />
                 <button onClick={this.search}>Поиск</button>
             </form>
