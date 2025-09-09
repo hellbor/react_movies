@@ -1,0 +1,16 @@
+.radio
+{
+    margin: 20px 50px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.radio input
+{
+    width: 20px;
+    height: 20px;
+}
+.radio span
+{
+    margin-right: 60px;
+    font-size: 32px;
+}
